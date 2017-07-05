@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="MyCustomProjectCategory">
+                <file name="MyCustomProjectTemplateProject.zip" url="nbresloc:/org/myself/mycustomprojtype/MyCustomProjectTemplateProject.zip">
+                    <!--org.myself.mycustomprojtype.MyCustomProjectTemplateWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr
+                        bundlevalue="org.myself.mycustomprojtype.Bundle#MyCustomProjectTemplate_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="org/myself/mycustomprojtype/MyCustomProjectTemplate.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/myself/mycustomprojtype/MyCustomProjectTemplateDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="org.myself.mycustomprojtype.MyCustomProjectTemplateWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

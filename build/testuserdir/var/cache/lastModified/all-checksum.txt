@@ -1,0 +1,13 @@
+/usr/share/netbeans/8.1/platform=1451582195000
+cluster./usr/share/netbeans/8.1/nb=1457716459000
+cluster./usr/share/netbeans/8.1/ide=1457716483000
+cluster./usr/share/netbeans/8.1/java=1457716498000
+cluster./usr/share/netbeans/8.1/apisupport=1457716500000
+cluster./usr/share/netbeans/8.1/harness=1451582196000
+cluster./home/inigo/NetBeansProjects/MyCustomProjType/build/cluster=1499241235000
+user=1499241235000
+crc=7
+locale=es_ES
+branding=nb
+java.version=1.8.0_131
+java.vm.version=25.131-b11

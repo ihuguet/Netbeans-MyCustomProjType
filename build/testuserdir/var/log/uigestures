@@ -1,0 +1,216 @@
+<record>
+  <date>2017-07-05T09:54:06</date>
+  <millis>1499241246018</millis>
+  <sequence>26</sequence>
+  <level>300</level>
+  <thread>14</thread>
+  <message>CPU INFO</message>
+  <param>4</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:06</date>
+  <millis>1499241246185</millis>
+  <sequence>27</sequence>
+  <level>300</level>
+  <thread>14</thread>
+  <message>SCREEN SIZE</message>
+  <param>1366</param>
+  <param>768</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:06</date>
+  <millis>1499241246186</millis>
+  <sequence>28</sequence>
+  <level>700</level>
+  <thread>14</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-07-05T09:54:08</date>
+  <millis>1499241248932</millis>
+  <sequence>66</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>14</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Metal</param>
+  <param>Metal</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:10</date>
+  <millis>1499241250284</millis>
+  <sequence>67</sequence>
+  <logger>org.netbeans.core.nativeaccess.NativeWindowSystemImpl</logger>
+  <level>800</level>
+  <thread>43</thread>
+  <exception>
+    <message>java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native</message>
+    <frame>
+      <class>com.sun.jna.platform.unix.X11</class>
+      <method>&lt;clinit&gt;</method>
+      <line>380</line>
+      <file>${netbeans.home}modules/ext/jna-platform-4.1.0.jar</file>
+    </frame>
+    <frame>
+      <class>com.sun.jna.platform.WindowUtils$X11WindowUtils</class>
+      <method>getAlphaVisualIDs</method>
+      <line>1537</line>
+      <file>${netbeans.home}modules/ext/jna-platform-4.1.0.jar</file>
+    </frame>
+    <frame>
+      <class>com.sun.jna.platform.WindowUtils$X11WindowUtils</class>
+      <method>isWindowAlphaSupported</method>
+      <line>1487</line>
+      <file>${netbeans.home}modules/ext/jna-platform-4.1.0.jar</file>
+    </frame>
+    <frame>
+      <class>com.sun.jna.platform.WindowUtils</class>
+      <method>isWindowAlphaSupported</method>
+      <line>1823</line>
+      <file>${netbeans.home}modules/ext/jna-platform-4.1.0.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.nativeaccess.NativeWindowSystemImpl</class>
+      <method>isWindowAlphaSupported</method>
+      <file>${netbeans.home}modules/org-netbeans-core-nativeaccess.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.windows.FloatingWindowTransparencyManager$1</class>
+      <method>run</method>
+      <file>${netbeans.home}modules/org-netbeans-core-windows.jar</file>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <method>run</method>
+      <line>748</line>
+      <file>${java.home}lib/rt.jar</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2017-07-05T09:54:12</date>
+  <millis>1499241252852</millis>
+  <sequence>72</sequence>
+  <level>800</level>
+  <thread>13</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8362217472</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:13</date>
+  <millis>1499241253778</millis>
+  <sequence>73</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Ne&amp;w Project...]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:31</date>
+  <millis>1499241271961</millis>
+  <sequence>91</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject[Open Proj&amp;ect...]</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject</param>
+  <param>Open Proj&amp;ect...</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:47</date>
+  <millis>1499241287202</millis>
+  <sequence>93</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Ne&amp;w Project...]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2017-07-05T09:54:57</date>
+  <millis>1499241297144</millis>
+  <sequence>94</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject[Open Proj&amp;ect...]</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject</param>
+  <param>Open Proj&amp;ect...</param>
+</record>
+<record>
+  <date>2017-07-05T09:55:25</date>
+  <millis>1499241325840</millis>
+  <sequence>97</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Plugins]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Plu&amp;gins]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Plu&amp;gins</param>
+</record>
+<record>
+  <date>2017-07-05T09:55:49</date>
+  <millis>1499241349138</millis>
+  <sequence>98</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>79</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-07-05T09:55:49</date>
+  <millis>1499241349394</millis>
+  <sequence>102</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-05T09:55:49</date>
+  <millis>1499241349434</millis>
+  <sequence>103</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>79</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>35</param>
+</record>
